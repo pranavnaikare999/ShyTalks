@@ -1,44 +1,30 @@
 # Welcome to Shy Talk project
 
-Changes made via Lovable will be committed automatically to this repo.
+# Shy Speak Connet
 
-**Use your preferred IDE**
+Shy Speak Connet is a communication-focused application designed to help shy and introverted individuals express themselves confidently and connect with others in a comfortable, pressure-free environment.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🚀 Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 🗣️ Guided conversations to reduce hesitation
+- 🤝 Safe and supportive communication space
+- 💬 Confidence-building interaction tools
+- 📱 Simple and user-friendly interface
+- 🔐 Focus on privacy and comfort
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🎯 Purpose
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Many people struggle to communicate due to shyness or fear of judgment.  
+**Shy Speak Connet** aims to break this barrier by providing a supportive platform where users can practice communication and gradually build confidence.
 
-# Step 3: Install the necessary dependencies.
-npm i
+🛠️ Tech Stack
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- Frontend:  HTML/CSS,Javascript,Typescript
+- Backend:   Supabase
+- Database:  PostgreSQL database
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+#What technologies are used for this project?
 
 This project is built with:
 
