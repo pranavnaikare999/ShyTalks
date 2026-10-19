@@ -1,0 +1,8 @@
+{
+  "name": "ShyTalks",
+  "description": "An anonymous Q&A and participation platform designed for introverts to join live sessions, community talks, and group tasks with confidence.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
